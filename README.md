@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Raffaele, a Data Engineer based in Italy
-- ⚙️ I work with Databricks, PySpark, SQL, Azure and Delta Lake
+- ⚙️ I work with Databricks, PySpark, SQL, Azure, Delta Lake, Python, Apache Airflow and Docker
 - 🌱 I'm currently working on personal projects focused on Data Engineering and Cloud Data Platforms
   - 🌦️ [Weather Lakehouse](https://github.com/raffmarro97-lab/azure-weather-lakehouse) - End-to-end Azure Data Factory + Databricks data pipeline
   - 🍺 [Breweries Medallion Architecture](https://github.com/raffmarro97-lab/DatabricksMedallionArchitecture) - Databricks Medallion Architecture with PySpark, Delta Lake and DABs
