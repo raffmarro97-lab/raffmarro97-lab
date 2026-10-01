@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Raffaele, a Data Engineer based in Italy
 - ⚙️ I work with Databricks, PySpark, SQL, Azure and Delta Lake
 - 🌱 I'm currently working on personal projects focused on Data Engineering and Cloud Data Platforms
-  - 🌦️ [Weather Lakehouse]([LINK_REPOSITORY](https://github.com/raffmarro97-lab/DatabricksMedallionArchitecture)) - End-to-end Azure Data Factory + Databricks data pipeline
-  - 🍺 [Breweries Medallion Architecture]([LINK_REPOSITORY](https://github.com/raffmarro97-lab/azure-weather-lakehouse)) - Databricks Medallion Architecture with PySpark, Delta Lake and DABs
-  - 💻 [PC Deal ETL]([LINK_REPOSITORY](https://github.com/raffmarro97-lab/pc-deal-etl)) - Containerized ETL pipeline orchestrated with Apache Airflow and built in Python
+  - 🌦️ [Weather Lakehouse]((https://github.com/raffmarro97-lab/DatabricksMedallionArchitecture)) - End-to-end Azure Data Factory + Databricks data pipeline
+  - 🍺 [Breweries Medallion Architecture]((https://github.com/raffmarro97-lab/azure-weather-lakehouse)) - Databricks Medallion Architecture with PySpark, Delta Lake and DABs
+  - 💻 [PC Deal ETL]((https://github.com/raffmarro97-lab/pc-deal-etl)) - Containerized ETL pipeline orchestrated with Apache Airflow and built in Python
 - 📚 Interested in Data Engineering, Distributed Computing, DataOps and Cloud Architecture
-- 📫 How to reach me: [LinkedIn]([LINK_LINKEDIN](https://www.linkedin.com/in/raffaele-marro-6b1681282/))
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raffaele-marro-6b1681282/)
