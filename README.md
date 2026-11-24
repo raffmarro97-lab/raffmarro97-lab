@@ -4,5 +4,6 @@
   - 🌦️ [Weather Lakehouse](https://github.com/raffmarro97-lab/azure-weather-lakehouse) - End-to-end Azure Data Factory + Databricks data pipeline
   - 🍺 [Breweries Medallion Architecture](https://github.com/raffmarro97-lab/DatabricksMedallionArchitecture) - Databricks Medallion Architecture with PySpark, Delta Lake and DABs
   - 💻 [PC Deal ETL](https://github.com/raffmarro97-lab/pc-deal-etl) - ETL pipeline built with Python, Apache Airflow and Docker
+  - 📊 [Open Source Analytics Lakehouse](https://github.com/raffmarro97-lab/open-source-analytics-lakehouse) - Databricks Medallion Lakehouse with GitLab, Jenkins CI/CD, Docker, Terraform, PySpark and Delta Lake
 - 📚 Interested in Data Engineering, Distributed Computing, DataOps and Cloud Architecture
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/raffaele-marro-6b1681282/)
