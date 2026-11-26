@@ -1,6 +1,7 @@
 - 👋 Hi, I'm Raffaele, a Data Engineer based in Italy
 - ⚙️ I work with Databricks, PySpark, SQL, Azure, Delta Lake, Python, Apache Airflow and Docker
 - 🌱 I'm currently working on personal projects focused on Data Engineering and Cloud Data Platforms
+  - 🎓 [Lip Movement Detection](https://github.com/raffmarro97-lab/lip-movement-detection) - Bachelor's thesis in Computer Engineering: visual speech activity detection using OpenCV, dlib, XGBoost and rule-based image processing.   
   - 🌦️ [Weather Lakehouse](https://github.com/raffmarro97-lab/azure-weather-lakehouse) - End-to-end Azure Data Factory + Databricks data pipeline
   - 🍺 [Breweries Medallion Architecture](https://github.com/raffmarro97-lab/DatabricksMedallionArchitecture) - Databricks Medallion Architecture with PySpark, Delta Lake and DABs
   - 💻 [PC Deal ETL](https://github.com/raffmarro97-lab/pc-deal-etl) - ETL pipeline built with Python, Apache Airflow and Docker
